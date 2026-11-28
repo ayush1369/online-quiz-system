@@ -1,0 +1,8 @@
+{
+  "name": "QuizLab — Online Quiz System",
+  "description": "Full-stack Online Quiz System implementing FR1–FR14 and NFR1–NFR10 for CSL202A Software Requirements Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
